@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en" data-theme="silk">
+<html lang="en" data-theme="lofi">
 
 <head>
     <meta charset="UTF-8">
